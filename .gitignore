@@ -1,0 +1,19 @@
+# Arquivos de build
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# Pastas comuns de build
+/bin/
+/build/
+/dist/
+
+# Arquivos temporários
+*~
+*.tmp
+*.bak
+
+# Configurações de IDEs
+.vscode/
